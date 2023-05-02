@@ -1,5 +1,5 @@
 {
-    "name": "chat-app",
+    "name": "server",
     "version": "1.0.0",
     "description": "MERN Stack Based Chat Application",
     "main": "server.js",
@@ -10,7 +10,7 @@
         "client": "npm start --prefix client",
         "dev": "concurrently \"npm run server\" \"npm run client\""
     },
-    "author": "Dave Howson",
+    "author": "Marvin Santillan",
     "license": "MIT",
     "dependencies": {
         "bcryptjs": "^2.4.3",
